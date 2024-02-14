@@ -1,0 +1,1 @@
+java -cp "target/ass4-1.0.jar:target/dependency/commons-numbers-primes-1.1.jar*" main.java.is.hi.sbs83.hbv202g.ass4.App

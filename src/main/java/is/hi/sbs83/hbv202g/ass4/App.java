@@ -1,13 +1,14 @@
 package is.hi.sbs83.hbv202g.ass4;
-
+import org.apache.commons.numbers.primes.Primes;
 /**
- * Hello world!
+ * next prime number
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        int frumtala = 123456789;
+        System.out.println(Primes.nextPrime(frumtala));
     }
 }
